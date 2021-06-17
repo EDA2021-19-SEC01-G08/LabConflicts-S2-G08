@@ -52,6 +52,7 @@ def loadTags(filename):
     return tags
 
 
-def loadBooksTags(catalog):
+def loadBooksTags(booktagsfile):
     # TO-DO: Modificación de Est-1 y Est-2 en el Lab 2
-    pass
+    bts = lt.newList(datastructure='SINGLE_LINKED', filename=booktagsfile)
+    return bts
