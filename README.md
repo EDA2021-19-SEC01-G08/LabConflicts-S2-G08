@@ -29,3 +29,4 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 Estudiante 1: Martín Santiago Galván Castro
 
+Martín Santiago Galván Castro 20191103 ms.galvan@uniandes.edu.co
