@@ -29,4 +29,3 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
 Estudiante 1: Martín Santiago Galván Castro
 
-Estudiante 2: Pedro Arturo López Mendoza
