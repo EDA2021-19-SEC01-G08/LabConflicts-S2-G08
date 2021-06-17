@@ -52,7 +52,7 @@ def loadTags(filename):
     return tags
 
 
-def loadBooksTags(booktagsfile):
+def loadBooksTags(filename):
     # TO-DO: Modificación de Est-1 y Est-2 en el Lab 2
-    bts = lt.newList(datastructure='SINGLE_LINKED', filename=booktagsfile)
-    return bts
+    btfile = cf.data_dir + filename
+    return model.addBookTags(btfile)
